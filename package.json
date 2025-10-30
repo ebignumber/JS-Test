@@ -1,0 +1,23 @@
+{
+  "name": "js-test",
+  "version": "1.0.0",
+  "description": "A way to test new javascript skills.",
+  "homepage": "https://github.com/loganDag/JS-Test#readme",
+  "bugs": {
+    "url": "https://github.com/loganDag/JS-Test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganDag/JS-Test.git"
+  },
+  "license": "GPL-3.0",
+  "author": "loganDag",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
